@@ -1,0 +1,20 @@
+* {
+  background-color: black;
+  border-radius: 4px;
+}
+img {
+  max-width: 100%;
+}
+h1 {
+  color: white;
+}
+h3,
+h1 > h3 {
+  color: pink;
+}
+#Movie {
+  background-color: rgb(216, 131, 33);
+}
+#b1 {
+  background-color: #fff;
+}
